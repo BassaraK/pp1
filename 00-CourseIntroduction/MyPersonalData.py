@@ -1,4 +1,1 @@
-imie="Kacper"
-nazwisko="Bassara"
-wiek="20"
-print(imie,nazwisko,wiek,"lat")
+print("Mam 179 cm wzrostu, tj."179*0.032808399" i ")
